@@ -1,0 +1,15 @@
+[submodule "klsxx"]
+	path = klsxx
+	url = https://github.com/NEWorldProject/klsxx.git
+[submodule "cxx.count"]
+	path = count
+	url = https://github.com/neoJupyter/cxx.count.git
+[submodule "common"]
+	path = common
+	url = https://github.com/neoJupyter/cxx.common.git
+[submodule "machines"]
+	path = machines
+	url = https://github.com/neoJupyter/cxx.machines.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/neoJupyter/cxx.kernel.git
