@@ -7,9 +7,9 @@
 [submodule "common"]
 	path = common
 	url = https://github.com/neoJupyter/cxx.common.git
-[submodule "machines"]
-	path = machines
-	url = https://github.com/neoJupyter/cxx.machines.git
 [submodule "kernel"]
 	path = kernel
 	url = https://github.com/neoJupyter/cxx.kernel.git
+[submodule "proxy"]
+	path = proxy
+	url = https://github.com/neoJupyter/cxx.proxy.git

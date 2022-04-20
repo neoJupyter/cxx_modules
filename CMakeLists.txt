@@ -5,4 +5,4 @@ project(njp.cxx)
 
 set(KLS_DISABLE_TEST TRUE)
 kls_configure()
-kls_define_modules(klsxx common count)
+kls_define_modules(klsxx common count kernel proxy)
